@@ -268,6 +268,7 @@ https://user-images.githubusercontent.com/62852525/144720537-952d35ba-e256-40c0-
 
 https://user-images.githubusercontent.com/62852525/144720531-2361a0be-1193-4ed4-bf45-cd00bda7f074.mp4
 
+<img src="https://cdn.lele-swapper.com/videos/ch3-s1-DM4KKGJYYhlCJuKvcEXLOqdpqD6xQYuK/showcase-pois.gif" width="40" height="40" />
 ![showcase-pois](https://cdn.lele-swapper.com/videos/ch3-s1-DM4KKGJYYhlCJuKvcEXLOqdpqD6xQYuK/showcase-pois.gif)
 
 
