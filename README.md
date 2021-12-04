@@ -5,7 +5,8 @@ so heres the full data we collected in zip format on our cdn! \
 https://cdn.lele-swapper.com/videos/chapter-3-3fjLvvJnGAVK25vZWrsthm8bR22eKAO5.zip (~500mb)
 
 # **Topics**
-## Trailers
+
+## Trailer
 
 [![trailer](https://user-images.githubusercontent.com/62852525/144719177-ab80ac80-1ec0-471d-abf0-0b8072d94364.png)](https://cdn.lele-swapper.com/videos/ch3-s1-DM4KKGJYYhlCJuKvcEXLOqdpqD6xQYuK/trailer-1080p-subtitle.mp4)
 
