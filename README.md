@@ -6,6 +6,9 @@ https://cdn.lele-swapper.com/videos/chapter-3-3fjLvvJnGAVK25vZWrsthm8bR22eKAO5.z
 
 # **Topics**
 ## Trailers
+
+<video src="https://cdn.lele-swapper.com/videos/ch3-s1-DM4KKGJYYhlCJuKvcEXLOqdpqD6xQYuK/trailer-1080p-subtitle.mp4" align="center" alt="FModel">
+
 ## Battle Pass
 ## Skins
 ## Weapons
