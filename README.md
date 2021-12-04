@@ -7,12 +7,19 @@ https://cdn.lele-swapper.com/videos/chapter-3-3fjLvvJnGAVK25vZWrsthm8bR22eKAO5.z
 # **Topics**
 ## Trailers
 
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
-
-https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/main.mp4?raw=true
+![1234](https://cdn.lele-swapper.com/videos/ch3-s1-DM4KKGJYYhlCJuKvcEXLOqdpqD6xQYuK/trailer-1080p-subtitle.mp4)
 
 ## Battle Pass
 ## Skins
+
+**Skin1**
+
+![1](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/10_ingame.png)
+
+**Skin2**
+
+![2](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/10_ingame.png)
+
 ## Weapons
 ## Map
 ## Mechanics
