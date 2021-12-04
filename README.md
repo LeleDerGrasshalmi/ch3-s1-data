@@ -209,37 +209,30 @@ https://user-images.githubusercontent.com/62852525/144718847-320824aa-e9b1-41b6-
 
 
 <p align="center">
-  <b>Map 1</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/0.png">
 </p>
 
 <p align="center">
-  <b>Map 2</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/1.png">
 </p>
 
 <p align="center">
-  <b>Map 3</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/2.png">
 </p>
 
 <p align="center">
-  <b>Map 4</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/3.png">
 </p>
 
 <p align="center">
-  <b>Map 5</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/4.png">
 </p>
 
 <p align="center">
-  <b>Map 6</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/5.png">
 </p>
 
 <p align="center">
-  <b>Map 7</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/6.png">
 </p>
 
