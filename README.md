@@ -189,24 +189,20 @@ https://user-images.githubusercontent.com/62852525/144718847-320824aa-e9b1-41b6-
 
 ## Weapons
 
-<p align="center">
-  <b>Waffe 1</b><br>
-  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/1_ingame.png">
-</p>
+**Assault Rifle**
 
-<p align="center">
-  <b>Waffe 2</b><br>
-  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/1_ingame.png">
-</p>
+https://user-images.githubusercontent.com/62852525/144720739-302578be-244a-4a35-b93c-ddbe25bf87a5.mp4
 
-<p align="center">
-  <b>Waffe 3</b><br>
-  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/1_ingame.png">
-</p>
+**Pumpgun**
+
+https://user-images.githubusercontent.com/62852525/144720748-67c7d650-01c9-41bc-ae8b-552c674c3271.mp4
+
+**Sniper**
+
+https://user-images.githubusercontent.com/62852525/144720751-ded905b9-4794-4c00-aa11-1e805c62fb84.mp4
 
 
 ## Map
-
 
 <p align="center">
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/0.png">
