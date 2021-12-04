@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-
 ## Skins
 
 <p align="center">
-  <b>Skin 1 Ingame</b><br>
+  <b>Marshmello Schwarz</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/1_ingame.png">
 </p>
 
@@ -71,32 +71,32 @@ https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-
 </p>
 
 <p align="center">
-  <b>Skin 5</b><br>
+  <b>Spiderman</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5.png">
 </p>
 
 <p align="center">
-  <b>Skin 5 Ingame</b><br>
+  <b>Spiderman Ingame</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame.png">
 </p>
 
 <p align="center">
-  <b>Skin 5 Ingame Style 1</b><br>
+  <b>Spiderman Ingame Weiß</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame_style1.png">
 </p>
 
 <p align="center">
-  <b>Skin 5 Ingame Style 2</b><br>
+  <b>Spiderman Ingame Schwarz</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame_style2.png">
 </p>
 
 <p align="center">
-  <b>Skin 6</b><br>
+  <b>The Foundation</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/6.png">
 </p>
 
 <p align="center">
-  <b>Skin 6 Ingame</b><br>
+  <b>The Foundation Ingame</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/6_ingame.png">
 </p>
 
