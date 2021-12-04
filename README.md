@@ -133,6 +133,56 @@ https://user-images.githubusercontent.com/62852525/144718847-320824aa-e9b1-41b6-
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/9_ingame.png">
 </p>
 
+<p align="center">
+  <b>Skin 10 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/10_ingame.png">
+</p>
+
+<p align="center">
+  <b>Skin 11 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/11_ingame.png">
+</p>
+
+<p align="center">
+  <b>Skin 11 Ingame Style 1</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/11_ingame_style.png">
+</p>
+
+<p align="center">
+  <b>Skin 12 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/12_ingame.png">
+</p>
+
+<p align="center">
+  <b>Skin 12 Ingame Style 1</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/12_ingame_style1.png">
+</p>
+
+<p align="center">
+  <b>Skin 12 Ingame Style 2</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/12_ingame_style2.png">
+</p>
+
+<p align="center">
+  <b>Skin 13 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/13_ingame.png">
+</p>
+
+<p align="center">
+  <b>Skin 14 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/14_ingame.png">
+</p>
+
+<p align="center">
+  <b>Skin 15 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/15_ingame.png">
+</p>
+
+<p align="center">
+  <b>Skin 16 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/16_ingame.png">
+</p>
+
 ## Weapons
 ## Map
 ## Mechanics
