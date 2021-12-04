@@ -33,8 +33,6 @@ https://cdn.lele-swapper.com/videos/chapter-3-3fjLvvJnGAVK25vZWrsthm8bR22eKAO5.z
 
 ![secret-page-1](https://user-images.githubusercontent.com/62852525/144718910-b641c1a7-1a28-477a-ad4e-c3b5c2608ce4.png)
 
-https://user-images.githubusercontent.com/62852525/144718847-320824aa-e9b1-41b6-9d6f-428194414d23.mp4
-
 **BP - Keyart**
 [![bp-keyart](https://user-images.githubusercontent.com/62852525/144720006-483b673b-2a32-4be9-bcfa-30b8f5c2b48b.png)](https://cdn.lele-swapper.com/videos/ch3-s1-DM4KKGJYYhlCJuKvcEXLOqdpqD6xQYuK/bp-main.mp4)
 
