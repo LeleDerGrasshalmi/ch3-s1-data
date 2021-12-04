@@ -278,34 +278,33 @@ https://user-images.githubusercontent.com/62852525/144720531-2361a0be-1193-4ed4-
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/mechanics/WeatherGameplay.png">
 </p>
 
-**weather video here**
+https://user-images.githubusercontent.com/62852525/144722021-c88e3810-e6af-42c7-b3ec-55ada2f69da0.mp4
 
 <p align="center">
   <b>Sliding</b><br>
 </p>
 
-**sliding video here**
+https://user-images.githubusercontent.com/62852525/144721966-fddb97fe-7878-4db8-86f2-26ad5181a1a7.mp4
 
 <p align="center">
   <b>Spiderman Grappler</b><br>
 </p>
-
-**Grappler video here**
+https://user-images.githubusercontent.com/62852525/144721947-0fb75b3e-48c2-4ca7-ab92-2889a20ea50e.mp4
 
 <p align="center">
   <b>Splash Box</b><br>
 </p>
 
-**splash box video here**
+https://user-images.githubusercontent.com/62852525/144721953-e3c4dd9d-9a36-4b35-b208-63af54b6afa2.mp4
 
 <p align="center">
   <b>New Physics</b><br>
 </p>
 
-**chaos physics video here**
+https://user-images.githubusercontent.com/62852525/144721528-879c844a-484a-4e2f-bd5a-028b2b06d35e.mp4
 
 <p align="center">
   <b>Tents</b><br>
 </p>
 
-**tents video here**
+https://user-images.githubusercontent.com/62852525/144721895-adf9a010-aac0-46bc-bb9b-303811773dad.mp4
