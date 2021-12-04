@@ -40,10 +40,6 @@ https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-
 
 ## Skins
 
-**Skin1**
-
-## Skins
-
 <p align="center">
   <b>Skin 1 Ingame</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/1_ingame.png">
@@ -94,30 +90,45 @@ https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame_style2.png">
 </p>
 
+<p align="center">
+  <b>Skin 6</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/6.png">
+</p>
 
+<p align="center">
+  <b>Skin 6 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/6_ingame.png">
+</p>
 
+<p align="center">
+  <b>Skin 7</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/7.png">
+</p>
 
+<p align="center">
+  <b>Skin 7 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/7_ingame.png">
+</p>
 
+<p align="center">
+  <b>Skin 7 Ingame Style 1</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/7_ingame_style.png">
+</p>
 
-**Skin4Ingame**
+<p align="center">
+  <b>Skin 8</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/8.png">
+</p>
 
-![6](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/6.png)
+<p align="center">
+  <b>Skin 8 Ingame Style 1</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/8_ingame_style.png">
+</p>
 
-**Skin4Ingame**
-
-![6](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/6_ingame.png)
-
-**Skin4Ingame**
-
-![7](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/7.png)
-
-**Skin4Ingame**
-
-![7](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/7_ingame.png)
-
-**Skin4Ingame**
-
-![7](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/7_ingame_style.png)
+<p align="center">
+  <b>Skin 9 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/9_ingame.png">
+</p>
 
 ## Weapons
 ## Map
