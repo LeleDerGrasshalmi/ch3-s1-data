@@ -44,6 +44,11 @@ https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-
 
 ## Skins
 
+<p align="center">
+  <b>Skin1Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/1_ingame.png">
+</p>
+
 **Skin1Ingame**
 
 ![1](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/1_ingame.png)
