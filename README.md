@@ -194,7 +194,7 @@ https://user-images.githubusercontent.com/62852525/144718847-320824aa-e9b1-41b6-
 
 https://user-images.githubusercontent.com/62852525/144720739-302578be-244a-4a35-b93c-ddbe25bf87a5.mp4
 
-**Pumpgun**
+**Pump (Not *Lever Action Shotgun*)**
 
 https://user-images.githubusercontent.com/62852525/144720748-67c7d650-01c9-41bc-ae8b-552c674c3271.mp4
 
