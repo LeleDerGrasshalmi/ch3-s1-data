@@ -4,6 +4,14 @@ main trailers (too big for github) \
 so heres the full data we collected in zip format on our cdn! \
 https://cdn.lele-swapper.com/videos/chapter-3-3fjLvvJnGAVK25vZWrsthm8bR22eKAO5.zip (~500mb)
 
+
+
+# **Authors**
+- [@LeleDerGrasshalm](https://github.com/LeleDerGrasshalmi)
+- [@SkyemLeaks](https://github.com/SkyemLeaks)
+
+
+
 # **Topics**
 
 ## Trailer
@@ -186,7 +194,3 @@ https://user-images.githubusercontent.com/62852525/144718847-320824aa-e9b1-41b6-
 ## Weapons
 ## Map
 ## Mechanics
-
-# **Authors**
-- [@LeleDerGrasshalm](https://github.com/LeleDerGrasshalmi)
-- [@SkyemLeaks](https://github.com/SkyemLeaks)
