@@ -282,6 +282,7 @@ https://user-images.githubusercontent.com/62852525/144720531-2361a0be-1193-4ed4-
 <p align="center">
   <b>Weather</b><br>
 </p>
+
 ![weather](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/mechanics/WeatherGameplay.png)
 
 https://user-images.githubusercontent.com/62852525/144722021-c88e3810-e6af-42c7-b3ec-55ada2f69da0.mp4
