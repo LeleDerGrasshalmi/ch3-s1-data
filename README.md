@@ -11,22 +11,14 @@ https://cdn.lele-swapper.com/videos/chapter-3-3fjLvvJnGAVK25vZWrsthm8bR22eKAO5.z
 ![FortniteArt](https://github.com/LeleDerGrasshalmi/ch3-s1-data/raw/main/Chapter%203/art.png)
 
 
-
-
 # **Topics**
 
-[Trailer](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Trailer)
-
-[Battle-Pass](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Battle-Pass)
-
-[Skins](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Skins)
-
-[Weapons](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Weapons)
-
-[Map](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Map)
-
-[Mechanics](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Mechanics)
-
+[Trailer](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Trailer) \
+[Battle-Pass](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Battle-Pass) \
+[Skins](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Skins) \
+[Weapons](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Weapons) \
+[Map](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Map) \
+[Mechanics](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Mechanics) \
 
 
 ## Trailer
