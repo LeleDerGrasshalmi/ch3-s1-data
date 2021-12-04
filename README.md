@@ -36,7 +36,7 @@ https://cdn.lele-swapper.com/videos/chapter-3-3fjLvvJnGAVK25vZWrsthm8bR22eKAO5.z
 
 https://user-images.githubusercontent.com/62852525/144718847-320824aa-e9b1-41b6-9d6f-428194414d23.mp4
 
-https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-b82b-ab45ccdbc9ad.mp4
+[![trailer](https://user-images.githubusercontent.com/62852525/144720006-483b673b-2a32-4be9-bcfa-30b8f5c2b48b.png)](https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-b82b-ab45ccdbc9ad.mp4)
 
 ## Skins
 
