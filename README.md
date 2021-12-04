@@ -15,6 +15,15 @@ https://cdn.lele-swapper.com/videos/chapter-3-3fjLvvJnGAVK25vZWrsthm8bR22eKAO5.z
 
 # **Topics**
 
+[Trailer](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Trailer)
+[Battle-Pass](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Battle-Pass)
+[Skins](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Skins)
+[Weapons](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Weapons)
+[Map](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Map)
+[Mechanics](https://github.com/LeleDerGrasshalmi/ch3-s1-data#Mechanics)
+
+
+
 ## Trailer
 
 [![trailer](https://user-images.githubusercontent.com/62852525/144719177-ab80ac80-1ec0-471d-abf0-0b8072d94364.png)](https://cdn.lele-swapper.com/videos/ch3-s1-DM4KKGJYYhlCJuKvcEXLOqdpqD6xQYuK/trailer-1080p-subtitle.mp4)
