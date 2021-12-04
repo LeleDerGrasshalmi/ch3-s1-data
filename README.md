@@ -278,6 +278,34 @@ https://user-images.githubusercontent.com/62852525/144720531-2361a0be-1193-4ed4-
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/mechanics/WeatherGameplay.png">
 </p>
 
+**weather video here**
+
 <p align="center">
-  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/14.png">
+  <b>Sliding</b><br>
 </p>
+
+**sliding video here**
+
+<p align="center">
+  <b>Spiderman Grappler</b><br>
+</p>
+
+**Grappler video here**
+
+<p align="center">
+  <b>Splash Box</b><br>
+</p>
+
+**splash box video here**
+
+<p align="center">
+  <b>New Physics</b><br>
+</p>
+
+**chaos physics video here**
+
+<p align="center">
+  <b>Tents</b><br>
+</p>
+
+**tents video here**
