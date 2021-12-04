@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-
 ## Skins
 
 <p align="center">
-  <b>Marshmello Schwarz</b><br>
+  <b>Marshmello (Black)</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/1_ingame.png">
 </p>
 
@@ -81,12 +81,12 @@ https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-
 </p>
 
 <p align="center">
-  <b>Spiderman Ingame Weiß</b><br>
+  <b>Spiderman Ingame (White)</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame_style1.png">
 </p>
 
 <p align="center">
-  <b>Spiderman Ingame Schwarz</b><br>
+  <b>Spiderman Ingame (Black)</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame_style2.png">
 </p>
 
