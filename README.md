@@ -12,18 +12,23 @@ todo lol
 ## Battle Pass
 
 **Page 3**
+
 ![page-3](https://user-images.githubusercontent.com/62852525/144718916-6de7fbd2-1cad-4529-b512-087377c86f8d.png)
 
 **Page 5**
+
 ![page-5](https://user-images.githubusercontent.com/62852525/144718924-7fecce2e-4c9a-4345-b78d-6e6b91d9c225.png)
 
 **Page 9 (1/2)**
+
 ![page-9-one](https://user-images.githubusercontent.com/62852525/144718931-8ab74805-e1e0-4aeb-8c1d-8d4e5c5157db.png)
 
 **Page 9 (2/2)**
+
 ![page-9-two](https://user-images.githubusercontent.com/62852525/144718944-7d462769-0747-4fae-a512-a38531c79782.png)
 
 **Secret - Page 1**
+
 ![secret-page-1](https://user-images.githubusercontent.com/62852525/144718910-b641c1a7-1a28-477a-ad4e-c3b5c2608ce4.png)
 
 https://user-images.githubusercontent.com/62852525/144718680-84043ad6-7a8c-409e-a24c-83258c945b2e.mp4
