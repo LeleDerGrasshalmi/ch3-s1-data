@@ -7,7 +7,7 @@ https://cdn.lele-swapper.com/videos/chapter-3-3fjLvvJnGAVK25vZWrsthm8bR22eKAO5.z
 # **Topics**
 ## Trailers
 
-https://cdn.lele-swapper.com/videos/ch3-s1-DM4KKGJYYhlCJuKvcEXLOqdpqD6xQYuK/trailer-1080p-subtitle.mp4
+https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/main.mp4
 
 ## Battle Pass
 ## Skins
