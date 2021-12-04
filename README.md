@@ -194,7 +194,7 @@ https://user-images.githubusercontent.com/62852525/144718847-320824aa-e9b1-41b6-
 
 https://user-images.githubusercontent.com/62852525/144720739-302578be-244a-4a35-b93c-ddbe25bf87a5.mp4
 
-**Pump (Not *Lever Action Shotgun*)**
+**Pumpgun**
 
 https://user-images.githubusercontent.com/62852525/144720748-67c7d650-01c9-41bc-ae8b-552c674c3271.mp4
 
@@ -272,3 +272,11 @@ https://user-images.githubusercontent.com/62852525/144720531-2361a0be-1193-4ed4-
 
 
 ## Mechanics
+
+<p align="center">
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/14.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/14.png">
+</p>
