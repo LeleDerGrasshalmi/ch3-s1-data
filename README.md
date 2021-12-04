@@ -13,6 +13,10 @@ https://user-images.githubusercontent.com/62852525/144718505-6baca250-5c4b-44fe-
 
 https://user-images.githubusercontent.com/62852525/144718680-84043ad6-7a8c-409e-a24c-83258c945b2e.mp4
 
+https://user-images.githubusercontent.com/62852525/144718847-320824aa-e9b1-41b6-9d6f-428194414d23.mp4
+
+https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-b82b-ab45ccdbc9ad.mp4
+
 ## Skins
 
 **Skin1**
