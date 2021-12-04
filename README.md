@@ -4,7 +4,7 @@ main trailers (too big for github) \
 so heres the full data we collected in zip format on our cdn! \
 https://cdn.lele-swapper.com/videos/chapter-3-3fjLvvJnGAVK25vZWrsthm8bR22eKAO5.zip (~500mb)
 
-![FortniteArt](https://user-images.githubusercontent.com/62852525/144718916-6de7fbd2-1cad-4529-b512-087377c86f8d.png)
+![FortniteArt](https://github.com/LeleDerGrasshalmi/ch3-s1-data/raw/main/Chapter%203/art.png)
 
 
 
