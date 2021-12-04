@@ -274,7 +274,8 @@ https://user-images.githubusercontent.com/62852525/144720531-2361a0be-1193-4ed4-
 ## Mechanics
 
 <p align="center">
-  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/map/14.png">
+  <b>Weather</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/mechanics/WeatherGameplay.png">
 </p>
 
 <p align="center">
