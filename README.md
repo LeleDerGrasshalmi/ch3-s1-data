@@ -46,50 +46,59 @@ https://user-images.githubusercontent.com/62852525/144718841-0665f253-acb1-41cc-
 ## Skins
 
 <p align="center">
-  <b>Skin1Ingame</b><br>
+  <b>Skin 1 Ingame</b><br>
   <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/1_ingame.png">
 </p>
 
-**Skin1Ingame**
+<p align="center">
+  <b>Skin 2 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/2_ingame.png">
+</p>
 
-![1](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/1_ingame.png)
+<p align="center">
+  <b>Skin 2 Ingame Style 1</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/2_ingame_style.png">
+</p>
 
-**Skin2Ingame**
+<p align="center">
+  <b>Skin 3 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/3_ingame.png">
+</p>
 
-![2](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/2_ingame.png)
+<p align="center">
+  <b>Skin 4</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/4.png">
+</p>
+
+<p align="center">
+  <b>Skin 4 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/4_ingame.png">
+</p>
+
+<p align="center">
+  <b>Skin 5</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5.png">
+</p>
+
+<p align="center">
+  <b>Skin 5 Ingame</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame.png">
+</p>
+
+<p align="center">
+  <b>Skin 5 Ingame Style 1</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame_style1.png">
+</p>
+
+<p align="center">
+  <b>Skin 5 Ingame Style 2</b><br>
+  <img src="https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame_style2.png">
+</p>
 
 
-**Skin2IngameStyle**
 
-![3](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/2_ingame_style.png)
 
-**Skin3Ingame**
 
-![3](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/3_ingame.png)
-
-**Skin4**
-
-![4](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/4.png)
-
-**Skin4Ingame**
-
-![4](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/4_ingame.png)
-
-**Skin4Ingame**
-
-![5](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5.png)
-
-**Skin4Ingame**
-
-![5](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame.png)
-
-**Skin4Ingame**
-
-![5](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame_style1.png)
-
-**Skin4Ingame**
-
-![5](https://github.com/LeleDerGrasshalmi/ch3-s1-data/blob/main/Chapter%203/skins/5_ingame_style2.png)
 
 **Skin4Ingame**
 
